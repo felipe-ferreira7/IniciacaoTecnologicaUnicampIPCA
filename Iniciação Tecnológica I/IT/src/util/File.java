@@ -17,7 +17,7 @@ import org.apache.commons.io.FileUtils;
 
 public class File {
 
-    private static final String DIRETORIO_ARQUIVO_ICONE_PADRAO = "/view/icons/percentual_pequeno.png";
+    private static final String DIRETORIO_ARQUIVO_ICONE_PADRAO = "/view/icons/icon_principal_pequeno.png";
     private static final String DIRETORIO_PADRAO_JAVA = System.getProperties().getProperty("java.io.tmpdir");
 
     private static final String NOME_ARQUIVO_IPCA = "\\arquivo_ipca.json";
