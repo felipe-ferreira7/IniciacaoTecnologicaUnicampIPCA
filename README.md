@@ -5,7 +5,7 @@
 <hr/>
 <h3>Informações do Desenvolvedor</h3>
 Analista e Desenvovedor de Software, graduado pela Faculdade de Tecnologia da Unicamp.
-<br/>LinkedIn: <a href="https://wwww.linkedin.com/in/felipeferreira-systemsanalyst/">linkedin.com/in/felipeferreira-systemsanalyst/</a>
+<br/>LinkedIn: <a href="wwww.linkedin.com/in/felipeferreira-systemsanalyst/">linkedin.com/in/felipeferreira-systemsanalyst/</a>
 
 
 <hr/>
